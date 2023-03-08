@@ -6,5 +6,5 @@ In this repository, you will find the python notebook with which the technical t
 
 To extract the information from the JSON files, you must first identify which file belongs to the CALLE 80 store and which belongs to VALLE DE LILI. Once this is done, it is only to execute the following functions:
 
--- get_info_calle80(JSON)
--- get_info_vallelili(JSON)
+<p>-- get_info_calle80(JSON)</p>
+<p>-- get_info_vallelili(JSON)</p>
