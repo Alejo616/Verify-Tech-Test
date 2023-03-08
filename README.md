@@ -1,4 +1,4 @@
-## Verify-Tech-Test
+## Veryfi-Tech-Test
 
 Solution to Verify - Technical test
 
